@@ -1,0 +1,4 @@
+!.gitignore
+Need_check_out/
+env/
+.idea/
